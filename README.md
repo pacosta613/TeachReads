@@ -16,3 +16,7 @@
 2. [Sketchapp-React Github](https://github.com/airbnb/react-sketchapp)
 
 3. [Airbnb-Sketchapp-Docs](http://airbnb.io/react-sketchapp/)
+
+### Programming
+
+1. [Become a good Programmer](https://www.techinasia.com/talk/5-month-guide-learn-code-get-hired)
