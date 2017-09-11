@@ -31,3 +31,6 @@
 2. [Kubernetes + GPUs](https://medium.com/intuitionmachine/kubernetes-gpus-tensorflow-8696232862ca)
 3. [Lessons learned from moving my side project to Kubernetes](https://hackernoon.com/lessons-learned-from-moving-my-side-project-to-kubernetes-c28161a16c69)
 
+### Node/MongoDb
+1. [Node express mongo by cwbuecheler](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
+2. [Node express mongo by cwbuecheler part 2](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/)
