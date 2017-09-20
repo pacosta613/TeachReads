@@ -39,3 +39,6 @@
 5. [Build a Node.js API in Under 30 Minutes](https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2)
 6. [The Modern Application Stack – Part 2: Using MongoDB With Node.js](https://www.mongodb.com/blog/post/the-modern-application-stack-part-2-using-mongodb-with-nodejs)
 6. [Creating a Simple RESTful Web App with Node.js, Express, and MongoDB](https://closebrace.com/tutorials/2017-03-02/creating-a-simple-restful-web-app-with-nodejs-express-and-mongodb)
+
+### React-Native
+1. [Auth system](https://www.theodo.fr/blog/2017/03/how-to-create-an-authentication-system-and-a-persistent-user-session-with-react-native/)
